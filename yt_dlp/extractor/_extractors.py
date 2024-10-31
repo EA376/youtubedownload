@@ -1936,8 +1936,10 @@ from .spotify import (
     SpotifyShowIE,
 )
 from .spreaker import (
+    SpreakerFeedPageIE,
     SpreakerIE,
     SpreakerPageIE,
+    SpreakerPodcastPageIE,
     SpreakerShowIE,
     SpreakerShowPageIE,
 )
